@@ -105,3 +105,12 @@ enter 2회 줄바꿈
 #### 이미지
 ![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
 
+1. images 폴더(사용자 컴퓨터)
+2. 이미지를 사용할 저장소에 접속 후 [Upload files] 누름
+3. 파일 탐색기에서 아까 만들어 둔 images 디렉터를 누르고 깃허브 저장소로 끌어옴
+4. 이미지 파일 올리기가 끝나면 [Commit Changes] 눌러 커밋
+5. 깃허브 저장소에 images 디렉터리가 생겼음
+6. 올린 이미지 파일을 README.md 오른쪽에 변경 아이콘을 누름
+7. ![아기고양이](./images/cat.jpg) 삽입하기
+8. README 수정이 끝나면 수정한 내용을 커밋
+9. 이미지 
